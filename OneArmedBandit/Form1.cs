@@ -113,7 +113,7 @@ namespace OneArmedBandit
 
         private void reel1_Click(object sender, EventArgs e)
         {
-
+            //
         }
     }
 }
